@@ -2,7 +2,7 @@
 
 Hi I am Majid, I am software developer with more than 18 years of experience in front and back end technologies. I have hands on experience with object oriented languages such as Java and python. I have also developed projects with Javascript (vanilla projects, & React.js,Vue.js,Nuxt.js).I have learned solidity and Hyperledger Fabric when studying blockchain development in George Brown College – Toronto.
 
-- 🔭 I’m currently Working full time as Full Stack engineer in eBilling company at Toronto - Canada
+- 🔭 I’m currently Working full time as a team lead engineer in eBilling company at Toronto - Canada
 - 📫 You can find me on:
 
 1. [LinkedIn](https://www.linkedin.com/in/majid-shockoohi)
